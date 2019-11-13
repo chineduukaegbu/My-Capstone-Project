@@ -1,0 +1,81 @@
+#first-story{
+    background-color: #1F07B2;
+    height: 400px;
+    padding: 20px;;
+}
+h1{
+    font-size: 2em;
+    text-align: center;
+    color: white; 
+}
+
+.inline{
+    display: inline-block;
+}
+
+.input-section{
+    width:60%;
+    margin: 0 auto;
+}
+input[type="text"] {
+    width: 70%;
+    line-height: 2em;
+    padding-left: 20px;
+}
+input[type="submit"] {
+    padding:10px;
+    background-color: #B29B00;
+    color: white;
+    border: none;
+    font-weight: bold;
+}
+#see-places{
+    font-size: 1.2em;
+    text-align: center;
+    color: black;
+}
+
+#second-story{
+    background-color: blanchedalmond;
+    height: 500px;
+    padding: 20px;
+}
+.see-map{
+    text-align: center;
+    font-size: 2em;
+    
+}
+.share{
+    position: relative;
+    left: 50%;
+    cursor: pointer;
+}
+ .center{
+     display: block;
+     margin-left: auto;
+     width: 50%;
+     margin-right: auto;
+     margin-top: 0rem;
+ }
+
+ #third-story{
+     background-color: blanchedalmond;
+     height: 200px;
+     padding: 10px;
+ }
+ #speed{
+     color: blue;
+ }
+ .local-weather{
+     color: blue;
+     font-size: 1.15em;
+ }
+ #fourth-story{
+     background-color: white;
+     height: 150px;
+     padding: 10px;
+ }
+ .red-text{
+     color: tomato;
+     font-size: 1.1em;
+ }
